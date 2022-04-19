@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">rahul_s_application222</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_group_call">Group Call</string>
+<string name="msg_telegram_voice">Telegram voice call</string>
+<string name="lbl_emmett_brown">Emmett Brown</string>
+<string name="lbl_0_01">0:01</string>
+<string name="msg_check_your_app">"Check your app's UI from the below demo screens of your app."</string>
+<string name="msg_06_incoming_cal">06 Incoming call in the middle of another call</string>
+<string name="lbl_app_navigation">App Navigation</string>
+<string name="msg_this_contact_has_no_phone_nu">This contact has no phone number</string>
+</resources>
